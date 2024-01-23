@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * This is the test to the Leetcode problem: 2. Add Two Numbers
+ * This is the test to the LeetCode problem: 2. Add Two Numbers
  *
  * @author Børre A. Opedal Lunde
  * @since 2024.01.23
