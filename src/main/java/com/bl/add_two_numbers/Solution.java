@@ -1,7 +1,7 @@
 package com.bl.add_two_numbers;
 
 /**
- * This is the solution to the Leetcode problem: 2. Add Two Numbers
+ * This is the solution to the LeetCode problem: 2. Add Two Numbers
  *
  * @author Børre A. Opedal Lunde
  * @since 2024.01.23
@@ -39,7 +39,7 @@ class Solution {
 				listTwoNode = listTwoNode.next;
 			}
 
-			// The nature of the problem lets us be particular evil when it
+			// The nature of the problem lets us be particularly evil when it
 			// comes to achieving high performance.
 
 			// We know that the sum will never be greater than 18 (9 + 9 = 18)
