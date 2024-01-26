@@ -101,7 +101,6 @@ public class Solution {
 					median = leftValue;
 				}
 
-				System.out.printf("Returning median: %f%n", median);
 				return median;
 			}
 
